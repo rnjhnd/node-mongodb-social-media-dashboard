@@ -21,7 +21,7 @@ This is a full-stack backend application built with **Node.js** and **Express.js
 
 1.  **Clone the repository**:
     ```bash
-    git clone [https://github.com/rnjhnd/node-mongodb-social-media-dashboard.git](https://github.com/rnjhnd/node-mongodb-social-media-dashboard.git)
+    git clone https://github.com/rnjhnd/node-mongodb-social-media-dashboard.git
     cd node-mongodb-social-media-dashboard
     ```
 2.  **Install dependencies**:
