@@ -19,23 +19,23 @@ This is a full-stack backend application built with **Node.js** and **Express.js
 
 ## ⚙️ Installation & Setup
 
-1.  **Clone the repository**:
+1.  Clone the repository:
     ```bash
     git clone https://github.com/rnjhnd/node-mongodb-social-media-dashboard.git
     cd node-mongodb-social-media-dashboard
     ```
-2.  **Install dependencies**:
+2.  Install dependencies:
     ```bash
     npm install
     ```
-3.  **Set up Environment Variables**:
+3.  Set up Environment Variables:
     Create a `.env` file and add your MongoDB connection string and JWT Secret:
     ```env
     PORT=3000
     MONGO_URI=mongodb://localhost:27017/SocialDB
     JWT_SECRET=your_secret_key
     ```
-4.  **Run the application**:
+4.  Run the application:
     ```bash
     node app.js
     ```
